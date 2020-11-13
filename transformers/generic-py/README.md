@@ -1,6 +1,6 @@
 This is a sample demonstration to allow any generic user transformation to happen.
 
-# How to provide your own set of data tranforming functions ? 
+# How to provide your own set of data transforming functions ? 
 
 1. The file `trans.py` gives a sample of how one can add in the functions.
 
